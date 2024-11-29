@@ -1,0 +1,23 @@
+.pai{
+	width: 100%;
+	height:auto;
+	background:#200A3F;
+	padding:3px;
+
+	display: flex;
+	flex-direction:row;
+    flex-wrap:wrap;
+    justify-content: center;
+ 
+}
+.item{
+	width:200px;
+	height:100px;
+	background:#00EC85;
+	border-radius:3px;
+	margin:3px;
+	color:#200A3F;
+	padding:5px;
+	box-sizing:border-box;
+}
+
